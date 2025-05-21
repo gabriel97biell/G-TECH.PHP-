@@ -1,6 +1,6 @@
 /* alteração de serviços- Gabriel*/
 .hero-experiencias {
-  background-image: url('../../assets/img/Fundo.png'); /* ajuste para seu caminho real */
+  background-image: url('../../assets/img/Fundo.png'); 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
